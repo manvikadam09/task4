@@ -33,3 +33,5 @@ It serves as a strong foundation for anyone interested in natural language proce
 *OUTPUT*
 
 <img width="560" height="479" alt="Image" src="https://github.com/user-attachments/assets/33d87939-2d77-40d0-9345-30fb7485f1d4" />
+
+<img width="548" height="455" alt="Image" src="https://github.com/user-attachments/assets/d4ed0354-fdbd-4a46-850a-e18d05a8c4c1" />
